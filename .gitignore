@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment & Keys
+.env
+hardhat.config.ts
+
+# Build files
+build/
+artifacts/
+cache/
+ignition/deployments/
+
+# Vercel
+.vercel
